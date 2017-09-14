@@ -73,8 +73,8 @@ string s1[50001],s2[50001];
 ll w[50001];
 int main()
 {
-    freopen("input.txt","r",stdin);
-    freopen("output.txt","w",stdout);
+   // freopen("input.txt","r",stdin);
+   // freopen("output.txt","w",stdout);
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     ll t,f=0;
