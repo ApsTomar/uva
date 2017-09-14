@@ -70,8 +70,8 @@ void unionset(ll a, ll b)
 }
 int main()
 {
-    freopen("input.txt","r",stdin);
-    freopen("output.txt","w",stdout);
+    //freopen("input.txt","r",stdin);
+    //freopen("output.txt","w",stdout);
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     ll t;
